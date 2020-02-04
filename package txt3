@@ -1,0 +1,17 @@
+my package ex3
+
+package ex3;
+
+import java.util.Scanner;
+
+public class ScannerDemo {
+
+	public static void main(String[] args) {
+		Scanner name=Input.nextline();
+		System.out.println("enetr your name");
+		
+		
+		
+	}
+
+}
